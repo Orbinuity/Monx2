@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/Orbinuity/Monx2)
 ![Last Commit](https://img.shields.io/github/last-commit/Orbinuity/Monx2)
-![Language](https://img.shields.io/badge/Language-C%23-orange?style=for-the-badge&logo=dotnet)
+![Language](https://img.shields.io/badge/Language-C%23-blue)
 ![Version](https://img.shields.io/badge/version-1.0-brightgreen)
 
 Monx2 is a 2D game engine for C#
