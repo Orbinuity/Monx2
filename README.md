@@ -13,5 +13,3 @@ Monx2 is a 2D game engine for C#
 ## License
 
 Before copying any part of this project, please read the [LICENSE](./LICENSE) file to understand the terms and conditions.
-
-## How to use
